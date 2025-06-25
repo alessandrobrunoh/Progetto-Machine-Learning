@@ -1,0 +1,1009 @@
+﻿FREQ;Frequenza;REF_AREA;Territorio;DATA_TYPE;Indicatore;COICOP_CATEG;Gruppo di spesa;PURCH_BEHAVIOUR;Abitudine di spesa;Tempo (TIME_PERIOD);Osservazione;OBS_STATUS;'Stato dell"'osservazione'
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;65.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;69.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;73.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;73;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;31.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;28;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;23.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;24.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;0.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;0.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;60.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;63.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;67.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;65.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;32.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;29.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;26.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;28.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;4.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;45.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;50;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;51;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;43.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;46;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;42.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;43.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;50.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;5.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;62.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;65.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;69.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;65.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;33.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;31;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;28.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;31.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;1.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;1.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;74.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;75.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;78.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;74.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;15.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;14.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;15.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;18.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;5.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;6.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;3.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;4.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;3.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;2.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;59.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;62.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;62.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;56.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;20.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;18.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;20.5;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;26.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;16.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;15.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;15.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;15.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;32.2;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;34.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;30.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;20;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;22;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;27.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;34.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.9;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;1;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.6;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.8;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;42.3;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;40.7;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;41;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;43.4;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;IT;Italia;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;70.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;74.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;77.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;76.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;25.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;22;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;20.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;20.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;2.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;0.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;0.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;0.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;67.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;71.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;74.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;72.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;26.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;23;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;21.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;22.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;2.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;3.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;52.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;57.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;56.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;47.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;38.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;35.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;37.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;46.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;6.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;67.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;70;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;72.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;67.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;27.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;25.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;24;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;28.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;2.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;77.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;79;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;81;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;75.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;10.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;10.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;11.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;16.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;6.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;6.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;3.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;4.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;4.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;3.1;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;62.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;66.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;62.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;56.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;17.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;15.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;19;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;25.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.5;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;16.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;14.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;16.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;15.6;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;39.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;42.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;37.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;23.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;22.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;31.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;39.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.4;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;1.2;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.8;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.9;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;33.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;31.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;29.3;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;33.7;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITC;Nord-ovest;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;74.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;78;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;80.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;77.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;19.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;16.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;19.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;2.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;70.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;72.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;73.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;70;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;24.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;21.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;21.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;25.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;3.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;3.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;55;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;58.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;56.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;46.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;37.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;34.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;38.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;47.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;4.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;73.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;76.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;77.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;73.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;20.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;20.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;23.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;1.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;0.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;0.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;0.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;82.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;83;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;85.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;81.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;8.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;8.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;11.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;6.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;6.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;3.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;4.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.5;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;1.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;69.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;72.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;71.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;61.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;14.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;12.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;15.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;24.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;12.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;11.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;12.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;11.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;42.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;44.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;37.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;23.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;20.2;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;20;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;28.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;39.7;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.3;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.6;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;34.4;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;32.1;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;32.8;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;34.9;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITD;Nord-est;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;64.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;71.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;76.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;74.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;32.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;25.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;20.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;23.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;2.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;0.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;58.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;64.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;71;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;69.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;32.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;28.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;23.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;25.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;5.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;4.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;46.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;52.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;54.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;45.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;44.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;40.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;40.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;48;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;5.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;3.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;63.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;68.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;73.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;69.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;32.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;27.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;23.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;27.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;1.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;1.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;74.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;76.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;80.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;76.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;17.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;14.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;12.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;15.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;5.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;6.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;4.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;5.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;2.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;2.1;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;2.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;59.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;64.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;64.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;59.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;18.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;18.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;24.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;15;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;14.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;14.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;13.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;35.3;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;38.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;34.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;23.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;24.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;23;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;28;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;33.5;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;0.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.8;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.9;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.4;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;37.2;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;35.7;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;36;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;41.6;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITE;Centro;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;53.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;54.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;60.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;61;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;43.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;43.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;37.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;36.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;0.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;49.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;50.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;53.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;51.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;44.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;43;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;40;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;40.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;5.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;6.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;32.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;35.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;37;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;33.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;60.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;57.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;55.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;59.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;0.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;4.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;6.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;5.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;48.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;51.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;54.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;52.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;47.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;44.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;42.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;44.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;1.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;1.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;66.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;66.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;68.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;66.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;24.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;24.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;25.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;27;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;4.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;5.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;3.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;0.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;3.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;3.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;48.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;49.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;51.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;47.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;28.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;27.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;28.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;31.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;2.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;2.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.5;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;19.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;19.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;18.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;19.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;18.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;19.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;17.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;12.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;23.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;24.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;24.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;28.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;0.9;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.3;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;0.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;1.1;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;0.8;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;0.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;0.6;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;55.4;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;54.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;57.2;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;57.7;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITF;Sud;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;62.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;64.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;73.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;76.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;36.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;33.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;25.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;20.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;2.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FOOD;Cibi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;50.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;51.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;62.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;63.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;41.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;40.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;31.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;30.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;0.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;6.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;6.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;4.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;4.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);BEVER;Bevande;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;35.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;38;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;45.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;44.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;55.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;54.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;50.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;50.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;7.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;5.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;2.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;3.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);CLOT_FOOTW;Abbigliamento e calzature;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;53;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;51.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;64.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;64.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;43.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;44.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;33.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;32.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;1.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;1.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;1.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);PCARE_HY;Cura e igiene personale;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;66.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;65.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;72;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;72;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;19.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;21.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;21.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;20.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;5.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;5.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;3.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;7.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;6.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;2.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;3.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);MEX_RPC;Visite mediche e accertamenti periodici preventivi;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;56.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;55.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;59.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;55.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;22.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;23;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;21.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;25.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;1.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;1.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;1.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;18.8;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;19.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;17.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;17.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);FUEL_PT;Carburanti per mezzi privati;ALL;Tutte le voci;2021;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2018;15;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2019;17;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2020;15.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;SAME_QN_QL;Un anno fa li compravo e continuo a comprarli senza modifiche;2021;10.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2018;17.3;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2019;17.6;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2020;19.2;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;LESS_QN_QL;Un anno fa li compravo e ho limitato la spesa in quantità e/o qualità;2021;28.7;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2018;1.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2019;0.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;MR_QN_BT_QL;Un anno fa li compravo e ho aumentato la spesa in quantità e/o qualità;2021;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2018;1.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2019;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2020;..;0;Il dato non raggiunge la metà della cifra minima considerata
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC1Y;Un anno fa non li compravo e ho iniziato a comprarli;2021;1.1;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2018;64.9;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2019;63.4;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2020;64.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;NO_PRC;Un anno fa non li compravo e continuo a non comprarli;2021;59.5;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2018;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2019;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2020;100;;
+A;Annuale;ITG;Isole;FAM_VAL_PERC;Famiglie (composizione %);TRV_HOL;Viaggi e vacanze;ALL;Tutte le voci;2021;100;;
